@@ -92,7 +92,6 @@ This project showcases a **fully custom-designed** thumbnail set for a complete 
 │ └── psd file
 ├── mockup-preview/
 │ └── playlist-grid.jpg
-└── README.md
 
 
 ---
