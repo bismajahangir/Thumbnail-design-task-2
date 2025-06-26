@@ -77,21 +77,21 @@ This project showcases a **fully custom-designed** thumbnail set for a complete 
 ## 📌 Folder Structure:
 
 
-📁 Python-Thumbnail-Design
-├── thumbnails/
-│ ├── Lecture1-Introduction & history.jpg
-│ ├── Lecture2-Install python & first program.jpg
-│ ├── Lecture3-Printf function & userinput.jpg
-│ ├── Lecture4-variables & datatypes.jpg
-│ ├── Lecture5-typechecking conversion & operators.jpg
-│ ├── Lecture6-conditional statements & list.jpg
-│ ├── Lecture7-tuples & functions.jpg
-│ ├── Lecture8-classesobjects & inheritance.jpg
-│ └── Lecture9-polymorphism & file handling.jpg
-├── source-files/
-│ └── psd file
-├── mockup-preview/
-│ └── playlist-grid.jpg
+📁 Python-Thumbnail-Design <br>
+├── thumbnails/<br>
+│ ├── Lecture1-Introduction & history.jpg<br>
+│ ├── Lecture2-Install python & first program.jpg <br>
+│ ├── Lecture3-Printf function & userinput.jpg <br>
+│ ├── Lecture4-variables & datatypes.jpg <br>
+│ ├── Lecture5-typechecking conversion & operators.jpg <br>
+│ ├── Lecture6-conditional statements & list.jpg <br>
+│ ├── Lecture7-tuples & functions.jpg <br>
+│ ├── Lecture8-classesobjects & inheritance.jpg <br>
+│ └── Lecture9-polymorphism & file handling.jpg  <br>
+├── source-files/ <br>
+│ └── psd file <br>
+├── mockup-preview/  <br>
+│ └── playlist-grid.jpg  <br>
 
 
 ---
